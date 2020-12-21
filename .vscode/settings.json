@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/mrzmsd/DCAUTO/aci-learning-labs-code-samples/py37-venv/bin/python3.7"
+    "python.pythonPath": "/home/mrzmsd/DCAUTO/aci-learning-labs-code-samples/py37-venv/bin/python3.7",
+    "git.ignoreLimitWarning": true
 }
